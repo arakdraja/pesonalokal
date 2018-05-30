@@ -319,7 +319,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mural-pancasila-dokumentasi-foto-oleh-kikie-pea-2-maret-2018-16-1200x675.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -353,7 +353,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/satay-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -367,23 +367,6 @@
                 "contentAlign": "center",
                 "text": "Kekayaan kuliner Indonesia yang menjadi daya tarik pariwisata dan ajang promosi daerah hingga tingak Internasional",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SHOW MORE</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mural-pancasila-dokumentasi-foto-oleh-kikie-pea-2-maret-2018-16-1200x675.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "FESTIVAL MURAL&nbsp;",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SHOW MORE</a> "
               }
             ]
           }
